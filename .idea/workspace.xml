@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af64bf82-a603-40e7-a0e5-ce41ec9df23a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="KotlinMultiplatform" KOTLIN_NATIVE_HOME="$USER_HOME$/.konan/kotlin-native-prebuilt-linux-1.4-M3">
+    <executables />
+  </component>
+  <component name="ProjectId" id="1eXilx6KotKjdR1ybzbWnVIjHEH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af64bf82-a603-40e7-a0e5-ce41ec9df23a" name="Default Changelist" comment="" />
+      <created>1594474494281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594474494281</updated>
+      <workItem from="1594474495346" duration="82000" />
+      <workItem from="1594498330475" duration="444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="102" width="1720" height="998" key="dock-window-1" timestamp="1594498455750">
+      <screen x="0" y="28" width="1920" height="1172" />
+    </state>
+    <state x="100" y="102" width="1720" height="998" key="dock-window-1/0.28.1920.1172@0.28.1920.1172" timestamp="1594498455750" />
+    <state x="539" y="165" width="840" height="1034" key="search.everywhere.popup" timestamp="1594474562942">
+      <screen x="0" y="28" width="1920" height="1172" />
+    </state>
+    <state x="539" y="165" width="840" height="1034" key="search.everywhere.popup/0.28.1920.1172@0.28.1920.1172" timestamp="1594474562942" />
+  </component>
+</project>
